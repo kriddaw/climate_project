@@ -22,15 +22,15 @@ Prediction for year 2050 - PPM: 463.8395869911533, Temp: 1.4417232145883432
 
 Graph Output
 2D Graphs
-![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/2d-plt.png)
+![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/master/2d-plt.png)
 3D Graph
-![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/3d-plt.png)
+![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/master/3d-plt.png)
 
 Regression Output
 2D Regression
-![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/2d-regr-30yr.png)
+![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/master/2d-regr-30yr.png)
 3D Regression
-![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/3d-regr-30yr.png)
+![alt text](https://raw.githubusercontent.com/kriddaw/climate_project/master/3d-regr-30yr.png)
 
 Data Sources:
 Atmospheric CO2 Concentrations: https://data.giss.nasa.gov/modelforce/ghgases/
